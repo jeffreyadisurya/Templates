@@ -1,2 +1,2 @@
-# caresid
+# Templates
 GitHub Pages
